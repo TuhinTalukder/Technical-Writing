@@ -1,2 +1,2 @@
 # Technical-Writing
-A practice repository for learning Tech Writing
+A practice repository for learning Technical Writing
